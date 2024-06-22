@@ -1,18 +1,11 @@
 # main links
 main:
-  - title: "Theme Documentation"
-    url: https://perstarke-webdev.de/oneflow-jekyll-theme
+  - title: "What we do"
+    url: /#section-who-we-are
     blank: true
-    description: "The documentation for this theme, on https://perstarke-webdev.de"
-  - title: "Section 1"
-    url: /#section-1
+  - title: "Who we are"
+    url: /#section-what-we-do
     blank: false
-  - title: "Section 2"
-    url: /#section-2
-    blank: false
-  - title: "Section 3"
-    url: /#section-3
-    blank: false
-  - title: "Section 4"
-    url: /#section-4
+  - title: "Contact"
+    url: /#section-contact
     blank: false
