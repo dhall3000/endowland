@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "What we do"
-    url: /#section-who-we-are
-    blank: true
-  - title: "Who we are"
     url: /#section-what-we-do
+    blank: false
+  - title: "Who we are"
+    url: /#section-who-we-are
     blank: false
   - title: "Contact"
     url: /#section-contact
